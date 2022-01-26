@@ -1,0 +1,8 @@
+C:\Users\SOLITERA-I\Desktop\c sharp\tip-donusumleri\tip-donusumleri\bin\Debug\tip-donusumleri.exe.config
+C:\Users\SOLITERA-I\Desktop\c sharp\tip-donusumleri\tip-donusumleri\bin\Debug\tip-donusumleri.exe
+C:\Users\SOLITERA-I\Desktop\c sharp\tip-donusumleri\tip-donusumleri\bin\Debug\tip-donusumleri.pdb
+C:\Users\SOLITERA-I\Desktop\c sharp\tip-donusumleri\tip-donusumleri\obj\Debug\tip-donusumleri.csproj.AssemblyReference.cache
+C:\Users\SOLITERA-I\Desktop\c sharp\tip-donusumleri\tip-donusumleri\obj\Debug\tip-donusumleri.csproj.SuggestedBindingRedirects.cache
+C:\Users\SOLITERA-I\Desktop\c sharp\tip-donusumleri\tip-donusumleri\obj\Debug\tip-donusumleri.csproj.CoreCompileInputs.cache
+C:\Users\SOLITERA-I\Desktop\c sharp\tip-donusumleri\tip-donusumleri\obj\Debug\tip-donusumleri.exe
+C:\Users\SOLITERA-I\Desktop\c sharp\tip-donusumleri\tip-donusumleri\obj\Debug\tip-donusumleri.pdb
